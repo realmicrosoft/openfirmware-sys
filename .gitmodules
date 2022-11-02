@@ -1,0 +1,3 @@
+[submodule "openfirmware"]
+	path = openfirmware
+	url = https://github.com/openbios/openfirmware.git
